@@ -9,6 +9,17 @@ The system:
 4. Runs a Monte Carlo simulation to compare **risk & return** before and after optimization  
 5. Visualizes the two simulations side by side
 
+## Part 2 of Project:
+1. Pulls the top fortune 500 companies through a webscrapper
+2. Uses the one hour time frame for the past six months for the prices
+3. Calculates the entropy with the Shannon Entropy Model
+4. Saves the calculated stocks entropy to a sql database
+
+   ## To-Do's
+   Running a diagnositc on a given stock
+      Determine whether the stock is moving due to a momentum(trend) or mean-reversion
+   Create a strategy and backtest it
+
 ---
 
 ## 💼 Portfolio Composition (Example)
